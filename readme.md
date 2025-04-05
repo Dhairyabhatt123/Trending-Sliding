@@ -7,6 +7,8 @@ gsap
     attach gsap
 scrolltrigger
 
+Demo Link - https://trending-sliding.vercel.app/
+
 # 🔥 Trending Sliding Effect Landing Page
 
 A modern and trendy landing page featuring **smooth sliding transitions** and **scroll-based animations** using **GSAP** and **Locomotive Scroll**. Built with **HTML**, **CSS**, and **JavaScript**, this landing page offers a sleek user experience and stylish design.
